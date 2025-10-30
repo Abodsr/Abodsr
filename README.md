@@ -54,9 +54,9 @@ I love building clean, efficient, and scalable web applications — turning idea
 
 <h3>🌍 Find me online</h3>
 <p>
-  <a href="https://github.com/abdelrahman-saber" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdelrahman-saber" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@oswa" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/Abodsr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelrhman-saber-734a11153" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
