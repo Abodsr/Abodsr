@@ -1,16 +1,18 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey! Nice to see you.
 </h1>
 
-<p>Welcome to my GitHub profile! </br> 
-I'm <b>Abdelrahman Saber</b>, a passionate <b>Full Stack .NET Developer</b> from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> 
-<b>Egypt</b>. 
+<p>
+Welcome to my GitHub profile! <br/>
+I'm <b>Abdelrahman Saber</b>, a passionate <b>Full Stack .NET Developer</b> from
+<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/>
+<b>Egypt</b>.
 I love building clean, efficient, and scalable web applications — turning ideas into digital experiences 🚀
 </p>
 
 <h3>🧠 Technologies & Tools I work with</h3>
+
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -27,7 +29,21 @@ I love building clean, efficient, and scalable web applications — turning idea
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
 
+<h3>🏆 Competitive Programming</h3>
+
+<p>
+💙 Solved <b>500+</b> problems on Codeforces.<br/>
+I enjoy solving algorithmic challenges and continuously improving my problem-solving skills.
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/ASR_YT2">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ASR_YT2&theme=github_dark" alt="Codeforces Stats"/>
+  </a>
+</p>
+
 <h3>📦 My Projects</h3>
+
 <ul>
   <li><b>🎯 Taskify</b> — A ToDo Web App built with ASP.NET Core MVC & MySQL, featuring XP, levels, and ranks system 🎮</li>
   <li><b>🛒 E-Store UI</b> — A modern e-commerce interface built using HTML, CSS, and Bootstrap</li>
@@ -35,33 +51,48 @@ I love building clean, efficient, and scalable web applications — turning idea
 </ul>
 
 <h3>📚 What I’m Learning</h3>
-<p>
-  I'm currently deepening my knowledge of:
-  <ul>
-    <li>Advanced ASP.NET Core MVC architecture</li>
-    <li>Entity Framework Core & Database Optimization</li>
-    <li>Front-end Design Systems using Bootstrap & JavaScript DOM</li>
-  </ul>
-</p>
+
+<ul>
+  <li>Advanced ASP.NET Core MVC architecture</li>
+  <li>Entity Framework Core & Database Optimization</li>
+  <li>Clean Architecture & Design Patterns</li>
+  <li>Front-end Design Systems using Bootstrap & JavaScript DOM</li>
+</ul>
 
 <h3>✨ A bit about me</h3>
+
 <p>
-  🎓 Computer Science Student<br/>
-  💻 NTI Web Design Scholarship Graduate (Ministry of Communications - Egypt)<br/>
-  🧩 Interested in productivity, design, and creating educational YouTube content<br/>
-  ☕ Powered by coffee and late-night coding sessions
+🎓 Computer Science Student<br/>
+💻 Backend .NET Developer<br/>
+🏅 NTI Web Design Scholarship Graduate (Ministry of Communications - Egypt)<br/>
+🧩 Passionate about Competitive Programming and Problem Solving<br/>
+🎥 Creating educational programming content on YouTube<br/>
+☕ Powered by coffee and late-night coding sessions
 </p>
 
 <h3>🌍 Find me online</h3>
+
 <p>
-  <a href="https://github.com/Abodsr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdelrhman-saber-734a11153" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/Abodsr" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdelrhman-saber-734a11153" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/ASR_YT2" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <i>This README is a snapshot of my coding journey 🧭</i><br/>
-  <b>“Code. Learn. Share.”</b>
+  <b>"Code. Learn. Share."</b>
 </p>
