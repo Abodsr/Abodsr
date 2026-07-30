@@ -37,7 +37,7 @@ I enjoy solving algorithmic challenges and continuously improving my problem-sol
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/ASR_YT2"> }CodeForcees Profile
+  <a href="https://codeforces.com/profile/ASR_YT2"> CodeForcees Profile
   </a>
 </p>
 
