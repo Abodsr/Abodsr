@@ -32,7 +32,7 @@ I love building clean, efficient, and scalable web applications — turning idea
 <h3>🏆 Competitive Programming</h3>
 
 <p>
-💙 Solved <b>600+</b> problems on Codeforces.<br/>
+💙 Solved <b>800+</b> problems on Codeforces.<br/>
 I enjoy solving algorithmic challenges and continuously improving my problem-solving skills.
 </p>
 
